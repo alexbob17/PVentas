@@ -16,6 +16,7 @@ class UI{
                 <b> Product name  </b> : ${product.name}
                 <b> Product price </b> : ${product.price}
                 <b> Product year </b> : ${product.year}
+                <a href="" class="btn btn-danger rounded">Delete</a>
              </div>
         </div>
         `;
